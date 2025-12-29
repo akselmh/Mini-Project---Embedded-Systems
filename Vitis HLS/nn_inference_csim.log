@@ -1,0 +1,13 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling ../../../../hls/matmul_tb.cpp in debug mode
+   Generating csim.exe
+
+First NN Prediction: 3
+
+
+Second NN Prediction: 3
+
+The maximum depth reached by any of the 4 hls::stream() instances in the design is 1024
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
