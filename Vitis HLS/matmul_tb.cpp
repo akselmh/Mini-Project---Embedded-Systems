@@ -391,7 +391,7 @@ int main() {
     		, 0.7294118,  0.7411765,  0.5921569,  0.654902};
 
     int pred2 = run_image(input_img2);
-    std::cout << "\nSecond NN Prediction: " << 1 << std::endl << std::endl;
+    std::cout << "\nSecond NN Prediction: " << pred2 << std::endl << std::endl;
 
     return 0;
 }
